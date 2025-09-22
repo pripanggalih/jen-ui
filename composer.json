@@ -55,5 +55,7 @@
                 "Jen\\JenServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
